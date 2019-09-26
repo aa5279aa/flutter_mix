@@ -1,5 +1,0 @@
-include ':app',':my_flutter'
-setBinding(new Binding([gradle: this]))
-evaluate(new File(settingsDir, 'my_flutter/.android/include_flutter.groovy'))
-///Users/yanglei/develop/git_ware/flutter_mix/flutterMix/my_flutter/.android/include_flutter.groovy
-///Users/yanglei/develop/git_ware/flutter_mix/           my_flutter/.android/include_flutter.groovy
