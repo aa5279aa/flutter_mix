@@ -1,2 +1,2 @@
 # flutter_mix
-flutter混合开发
+尝试flutter的混合开发模式
